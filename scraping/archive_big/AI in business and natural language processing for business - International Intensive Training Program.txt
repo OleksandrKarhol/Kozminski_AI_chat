@@ -1,0 +1,1097 @@
+AI in business and natural language processing for business - International Intensive Training Program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AI in business and natural language processing for business - International Intensive Training Program
+
+
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AI in business and natural language processing for business - International Intensive Training Program
+
+
+Level
+
+
+                                      Courses and Training
+                                  
+
+
+
+Duration
+
+                              2 months
+                          
+
+
+Language
+
+                              EN
+                          
+
+
+Obtained title
+
+                              Training completion certificate
+                          
+
+
+Mode
+
+
+                                      Online                                  
+
+
+
+Date
+
+                                                                                      
+                                                        08.05 -
+                                                                                          
+                                                        19.06.2023
+                                                            
+
+
+
+
+              Contact
+            
+
+
+
+                    Program
+                  
+
+
+
+
+                    Project
+                  
+
+
+
+
+
+
+                  Close
+                
+
+
+
+
+
+
+
+
+
+
+
+
+                                      Aleksandra Ryniewicz
+                                  
+
+
+                      spinaker@kozminski.edu.pl
+                    
+
+
+
+
+
+
+
+
+
+SPINAKER - International Intensive Training Programs
+
+
+
+
+
+
+
+
+
+
+
+The Heart of AI: Artificial Intelligence Workshop Hub and Data Science in the Centre of Europe
+
+
+
+
+
+
+
+
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Program listing
+
+
+Courses and Training
+
+
+ AI in business and natural language processing... 
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Program
+
+
+
+
+
+Instructors
+
+
+
+
+
+Terms and admission
+
+
+
+
+
+Fees
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+
+
+
+
+
+
+
+About the program
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+INTERNATIONAL INTENSIVE TRAINING PROGRAMS
+The Heart of AI: Artificial Intelligence Workshop Hub and Data Science in the Centre of Europe – International Intensive Training Programs are carried out thanks to European Union’s funding under the Spinaker Program aimed at internationalization of higher education.
+The Spinaker Program is implemented within the framework of the Polish National Agency for Academic Exchange's (NAWA's) and co-financed by the European Social Fund under the Operational Program Knowledge Education Development.
+
+
+
+
+
+
+
+
+
+
+The program includes three separate modules
+
+
+
+
+
+
+
+
+
+
+1
+
+
+               
+                AI IN BUSINESS AND NATURAL LANGUAGE PROCESSING FOR BUSINESS (DATE: from May 8 to June 19, 2023)
+               
+            
+
+AI is a key optimization and prediction technology for organizations. This online training focuses on three important themes: how Natural Language Processing (NLP) increases business potential, the basics of machine learning and the conditions of strategy implementation at particular times. During the course we will present the basics of machine learning and the conditions for implementing ML and AI in organizations. The training is based on Michael Porter's five-forces framework.
+The course will be conducted together with NASK, National Research Institute: https://en.nask.pl/
+
+
+
+
+2
+
+
+               
+                DATA SCIENCE FOR BUSINESS (DATE: FROM SEPTEMBER 1 TO NOVEMBER 8, 2022) - PROGRAM FINALIZED
+               
+            
+
+Nowadays, data science offers many possibilities for business. This online training offers a deep-dive into data science in and for business. If you wish to learn how data-driven analytical thinking transforms business organization and influences the overall business performance, the knowledge presented contained in the course that we have prepared together with our partners is a true compendium of how to build data-driven processes and data-driven organizations.
+
+
+
+
+3
+
+
+               
+                PYTHON I AND II (OCTOBER 15 TO DECEMBER 17, 2021) - PROGRAM FINALIZED
+               
+            
+
+This online training provides the essential features of Python programming language The ultimate benefit of the training is a sharper understanding of Python programming environments. Students will learn how to discern data types and gain insight on how to conduct logical operations that can improve business performance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Program
+
+
+
+
+
+
+
+
+
+AI IN BUSINESS AND NATURAL LANGUAGE PROCESSING FOR BUSINESS
+
+
+
+
+
+
+
+
+
+
+Duration of Program: from May 8 to June 19, 2023
+Language of instruction: English 
+Format: Online training
+Length: 54-hours 
+Participation limit: 60 students
+Application deadline: April 19, 2023
+
+
+
+
+
+
+
+
+
+
+
+PROGRAM:
+Artificial Intelligence at its very root is human’s reaction to new circumstances. It leads to the construction of innovative solutions and comprises numerous subdisciplines. This online training focuses on three important themes: how Natural Language Processing (NLP) increases business potential, the basics of machine learning and the conditions of strategy implementation at particular times. The training is based on Michael Porter's five-forces framework.
+TOPICS COVERED:
+Artificial Intelligence in business applications
+Natural language processing for business 
+Data Science for business
+Business culture in Poland
+Desired candidates should express interest in the subject and, ideally, demonstrate strong analytical thinking skills. Only candidates with valid student status are eligible to participate in the course. Read more on Terms and Conditions.
+SYLLABI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructors
+
+
+
+
+
+
+
+
+
+Leading Instructors
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            Pamela Krzypkowska
+                                                                    
+Cloud AI Architect at Microsoft, working with Enterprise market clients on flagship projects in these areas in Poland. She is mainly responsible for machine learning operationalization (MLOps), building machine learning models on Databricks and Azure ML platforms and working with OpenAI models. She is a member of the AI Ethics and Cybersecurity Group at the Chancellery of the Prime Minister of Poland and a lecturer at the Koźmiński University and the Warsaw University of Technology. Her main areas of interest are neural networks and AI ethics. She graduated from Computer Science at the Warsaw University of Technology and Philosophy at the University of Warsaw.
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+LinkedInEmail
+
+
+
+                                                                            Prof. Aleksandra Przegalińska
+                                                                    
+Doctor of Social Sciences, KU Professor in the Department of Network Society Management, philosopher, researcher in the development of new technologies, especially artificial intelligence, social robots and dressing technologies.
+A graduate of The New School for Social Research in New York, where she participated in research on virtual reality identity, with a special focus on Second Life. She also worked for the Polish Presidency of the EU Council as Chairwoman of the Audiovisual Working Group on behalf of the Ministry of Culture and National Heritage. Visiting Scholar at MIT (2016-2017, 2019). 
+Since 2015 member of the Program Council of Startup Hub Poland. Scholarship holder of the "Mobility Plus" program. (2016 - 2017), Kosciuszko Foundation (2014), Foundation for Polish Science (2010) and Wiliam J. Fulbright (2007), winner of the award for outstanding young scientists of the Minister of Science and Higher Education.
+Co-author of the program of specialization - Management and Artificial Intelligence in Digital Society, in the course of the first degree studies in English in the stationary form in KU. In the fall of 2020, she begins research at the American Institute for Economic Research on Work Automation and then joins the Harvard University Labour and Worklife program.
+Author of the monograph "Virtual Beings. How phenomenology changed artificial intelligence". (UNIVERSITAS, 2016) and many scientific publications in journals and monographs, co-author of the book "Collaborative Society". (The MIT Press) www.collaborativesociety.net, published together with Prof. Dariusz Jemielniak.Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+                                                                            Konrad Sowa
+                                                                    
+Konrad is pursuing his PhD degree on Kozminski University with a research related to human-AI collaboration, under guidance of prof. Aleksandra Przegalinska. Their studies are precursory in the newly emerging area. Having led numerous courses, he is also an expert in startup management, innovation, AI. Apart from a scientific career, he also works in venture capital industry for one of the leading funds. 
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+Email
+
+
+
+                                                                            MA Jacek Mańko
+                                                                    
+Jacek Mańko, Kozminski University, Department of Management in Digital and Networked Societies
+Jacek Mańko holds MA degree in cognitive science obtained at the Adam Mickiewicz University in Poznan (2014) In the past, he also studied and worked at the Albert-Ludwig University in Freiburg, Germany. Recently in 2020, graduated from the postgraduate program "Data Processing - Big Data" at Adam Mickiewicz University in Poznan. His research interests include AI across a broad spectrum of other disciplines such as sociology, psychology, cognitive science, economy and last but not least ethics of AI. 
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            Kamil Kinastowski
+                                                                    
+Kamil is a recent graduate from KU with a Distinction in Management & AI, an achievement awarded to only a select few from the course. His thesis topic, "Conversational Agents as Tools for the Marketing Industry," was based on his work and learnings in the OPUS research project. In addition, Kamil is actively contributing to several other research projects related to AI and ML conducted by professors at Koźmiński.
+As the co-founder of the Koźmiński AI academic club, Kamil aims to promote knowledge of AI at the university, provide real-life project opportunities for the members, and organize events related to AI topics.
+Currently, Kamil is a Product Manager at OLX Group, responsible for the growth and improvement of a critical internal tool used by 700 employees worldwide to conduct A/B tests online.
+In his free time, Kamil is an avid technology enthusiast who loves to explore new places and learn about different cultures. He is always eager to take on new challenges and expand his knowledge in the field of AI.
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            Pamela Krzypkowska
+                                                                    
+Cloud AI Architect at Microsoft, working with Enterprise market clients on flagship projects in these areas in Poland. She is mainly responsible for machine learning operationalization (MLOps), building machine learning models on Databricks and Azure ML platforms and working with OpenAI models. She is a member of the AI Ethics and Cybersecurity Group at the Chancellery of the Prime Minister of Poland and a lecturer at the Koźmiński University and the Warsaw University of Technology. Her main areas of interest are neural networks and AI ethics. She graduated from Computer Science at the Warsaw University of Technology and Philosophy at the University of Warsaw.
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+LinkedInEmail
+
+
+
+                                                                            Prof. Aleksandra Przegalińska
+                                                                    
+Doctor of Social Sciences, KU Professor in the Department of Network Society Management, philosopher, researcher in the development of new technologies, especially artificial intelligence, social robots and dressing technologies.
+A graduate of The New School for Social Research in New York, where she participated in research on virtual reality identity, with a special focus on Second Life. She also worked for the Polish Presidency of the EU Council as Chairwoman of the Audiovisual Working Group on behalf of the Ministry of Culture and National Heritage. Visiting Scholar at MIT (2016-2017, 2019). 
+Since 2015 member of the Program Council of Startup Hub Poland. Scholarship holder of the "Mobility Plus" program. (2016 - 2017), Kosciuszko Foundation (2014), Foundation for Polish Science (2010) and Wiliam J. Fulbright (2007), winner of the award for outstanding young scientists of the Minister of Science and Higher Education.
+Co-author of the program of specialization - Management and Artificial Intelligence in Digital Society, in the course of the first degree studies in English in the stationary form in KU. In the fall of 2020, she begins research at the American Institute for Economic Research on Work Automation and then joins the Harvard University Labour and Worklife program.
+Author of the monograph "Virtual Beings. How phenomenology changed artificial intelligence". (UNIVERSITAS, 2016) and many scientific publications in journals and monographs, co-author of the book "Collaborative Society". (The MIT Press) www.collaborativesociety.net, published together with Prof. Dariusz Jemielniak.Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+                                                                            Konrad Sowa
+                                                                    
+Konrad is pursuing his PhD degree on Kozminski University with a research related to human-AI collaboration, under guidance of prof. Aleksandra Przegalinska. Their studies are precursory in the newly emerging area. Having led numerous courses, he is also an expert in startup management, innovation, AI. Apart from a scientific career, he also works in venture capital industry for one of the leading funds. 
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+Email
+
+
+
+                                                                            MA Jacek Mańko
+                                                                    
+Jacek Mańko, Kozminski University, Department of Management in Digital and Networked Societies
+Jacek Mańko holds MA degree in cognitive science obtained at the Adam Mickiewicz University in Poznan (2014) In the past, he also studied and worked at the Albert-Ludwig University in Freiburg, Germany. Recently in 2020, graduated from the postgraduate program "Data Processing - Big Data" at Adam Mickiewicz University in Poznan. His research interests include AI across a broad spectrum of other disciplines such as sociology, psychology, cognitive science, economy and last but not least ethics of AI. 
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            Kamil Kinastowski
+                                                                    
+Kamil is a recent graduate from KU with a Distinction in Management & AI, an achievement awarded to only a select few from the course. His thesis topic, "Conversational Agents as Tools for the Marketing Industry," was based on his work and learnings in the OPUS research project. In addition, Kamil is actively contributing to several other research projects related to AI and ML conducted by professors at Koźmiński.
+As the co-founder of the Koźmiński AI academic club, Kamil aims to promote knowledge of AI at the university, provide real-life project opportunities for the members, and organize events related to AI topics.
+Currently, Kamil is a Product Manager at OLX Group, responsible for the growth and improvement of a critical internal tool used by 700 employees worldwide to conduct A/B tests online.
+In his free time, Kamil is an avid technology enthusiast who loves to explore new places and learn about different cultures. He is always eager to take on new challenges and expand his knowledge in the field of AI.
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            Pamela Krzypkowska
+                                                                    
+Cloud AI Architect at Microsoft, working with Enterprise market clients on flagship projects in these areas in Poland. She is mainly responsible for machine learning operationalization (MLOps), building machine learning models on Databricks and Azure ML platforms and working with OpenAI models. She is a member of the AI Ethics and Cybersecurity Group at the Chancellery of the Prime Minister of Poland and a lecturer at the Koźmiński University and the Warsaw University of Technology. Her main areas of interest are neural networks and AI ethics. She graduated from Computer Science at the Warsaw University of Technology and Philosophy at the University of Warsaw.
+Read moreCollapse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms and admission
+
+
+
+
+
+
+
+
+
+
+The program is open to 3rd-year (and 4th-year where applicable) undergraduate (Bachelor level) and graduate students (Master level) from both EU and non-EU countries.
+The selection process is based on an equal opportunities policy. Students with disabilities are entitled to extra organizational and educational assistance if needed. Candidates will be chosen on the basis of a competitive selection. The application form includes: 
+confirmation of semester/ academic year grade-point average
+CV
+motivational letter (400 Words)
+In cases of a dispute, meaning where candidates hold equal grade point averages, cover letters will be the deciding argument in the selection of course participants. All candidates will be informed on the selection results by e-mail.
+IMPORTANT NOTE: Candidates may participate in only one course under the Spinaker Program. Therefore, if you participated in the Python I and II Intensive course, your application cannot be processed.
+Duration of Program: from May 8 to June 19, 2023
+Participation limit: 60 students
+
+
+
+
+
+
+
+
+
+
+
+
+                         
+                            How to apply?
+                         
+                    
+
+
+
+
+
+
+
+Interested candidates should fill out an application form in this link
+Application deadline: April 19, 2023
+
+
+
+
+
+
+
+
+
+
+
+                         
+                            Templates of application documents
+                         
+                    
+
+
+
+
+
+
+
+1. Declaration of participation
+2. Participant personal data form
+3. Declaration GDPR OP KED
+4. Declaration GDPR NAWA
+5. Additional consent
+
+
+
+
+
+
+
+
+
+
+                         
+                            Rules of admission
+                         
+                    
+
+
+
+
+
+
+
+Download Rules of admission
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do you have any questions?
+Aleksandra Ryniewicz
+
+
+
+                                spinaker@kozminski.edu.pl
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fees
+
+
+
+
+
+
+
+
+
+
+Participation is free of charge. 
+The Program is run under the Polish National Program NAWA Spinaker Program is aimed at internationalization of higher education.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            ABOUT KOZMINSKI
+          
+
+
+
+Discover other benefits of studying at Kozminski University
+
+
+
+
+
+            Read more
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KOZMINSKI UNIVERSITY AI PROGRAMS
+
+
+
+
+
+
+
+
+
+
+                                    Master in Big Data Science
+                                
+
+
+
+
+                                                                                                    Graduate Programs (Master)
+                                                                                                
+
+
+
+
+
+                                                                                                            Full-time
+                                                                                                    
+
+                                                                                                            Online
+                                                                                                    
+
+
+
+                                                                                            2 years
+                                                                                    
+
+                                                                                            EN
+                                                                                    
+
+
+See
+                                        product Master in Big Data Science
+
+
+
+
+
+
+
+
+
+
+                                    Bachelor in Management and Artificial Intelligence
+                                
+
+
+
+
+                                                                                                    Undergraduate Programs (Bachelor)
+                                                                                                
+
+
+
+
+
+                                                                                                            Full-time
+                                                                                                    
+
+
+
+                                                                                            3 years
+                                                                                    
+
+                                                                                            EN
+                                                                                    
+
+
+See
+                                        product Bachelor in Management and Artificial Intelligence
+
+
+
+
+
+
+
+
+
+
+                                    Master in Management
+                                
+
+
+
+
+                                                                                                    Graduate Programs (Master)
+                                                                                                
+
+
+
+
+
+                                                                                                            Full-time
+                                                                                                    
+
+                                                                                                            Part-time
+                                                                                                    
+
+                                                                                                            Online
+                                                                                                    
+
+
+
+                                                                                            2 years
+                                                                                    
+
+                                                                                            EN
+                                                                                    
+
+
+See
+                                        product Master in Management
+
+
+
+
+
+
+
+
+
+
+      Up
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We use cookies on this site to enhance your user experienceBy clicking the Accept button, you agree to us doing so.
+
+
+Accept
+No, thanks
+
+
+

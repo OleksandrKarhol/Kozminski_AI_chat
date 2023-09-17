@@ -1,0 +1,798 @@
+Business Valuation with Excel - Online Workshop - Kozminski University - Warsaw, Poland
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business Valuation with Excel - Online Workshop - Kozminski University - Warsaw, Poland
+
+
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business Valuation with Excel - on-line workshop
+
+
+Level
+
+
+                                      ONLINE Workshops
+                                  
+
+
+
+Duration
+
+                              2 days
+                          
+
+
+Language
+
+                              EN
+                          
+
+
+Obtained title
+
+                              Certificate of completing the course
+                          
+
+
+Mode
+
+
+                                      Online                                  
+
+
+
+
+
+              Contact
+            
+
+
+
+
+
+                  Close
+                
+
+
+
+
+
+
+
+
+
+
+
+
+                                      Agnieszka Marciniuk
+                                  
+
+
+                        (+48 22) 519 22 07
+                      
+
+
+
+                      amarciniuk@kozminski.edu.pl
+                    
+
+
+
+
+
+
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Program listing
+
+
+ONLINE Workshops
+
+
+ Business Valuation with Excel - on-line workshop 
+
+
+
+
+
+
+
+
+
+
+
+
+Workshop objective
+
+
+
+
+
+Program
+
+
+
+
+
+Instructors
+
+
+
+
+
+Admission rules
+
+
+
+
+
+Fees
+
+
+
+
+
+
+
+
+
+
+
+Workshop objective
+
+
+
+
+
+
+
+
+
+Overview
+
+
+
+
+
+
+
+
+
+
+Business valuation is used for the purposes of investment, M&A or as part of internal measures of financial management. It is extensively applied when companies issue new shares, divest operations or acquire other companies. This highly practical workshop will lead you quickly from the basics through to the more advanced valuation methodologies and modeling techniques.
+
+
+
+
+
+
+
+
+
+
+Program highlights
+
+
+
+
+
+
+
+
+
+
+1
+
+
+               
+                Dealing with standards of value, valuation models and techniques
+               
+            
+
+.
+
+
+
+
+2
+
+
+               
+                Understanding of business models
+               
+            
+
+.
+
+
+
+
+3
+
+
+               
+                Income-based valuation methods DCF (FCFF, FCFE), Capitalized Mainainable Earnings and Capitalized Maintainable Cash Flow
+               
+            
+
+.
+
+
+
+
+4
+
+
+               
+                Developing an appropriate cost of capital
+               
+            
+
+.
+
+
+
+
+5
+
+
+               
+                Using of comparative valuation measures
+               
+            
+
+.
+
+
+
+
+6
+
+
+               
+                Valuing of privately-held company and publicly-held corporation
+               
+            
+
+.
+
+
+
+
+7
+
+
+               
+                Optimization of the capital structure in the process of value creation
+               
+            
+
+.
+
+
+
+
+8
+
+
+               
+                Utilization of econometric models in business valuation
+               
+            
+
+.
+
+
+
+
+9
+
+
+               
+                Valuation for the purpose of acquisition
+               
+            
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+Target group
+
+
+
+
+
+
+
+
+
+
+This workshop is aimed at those with basic financial background who wish to explore more aspects of business valuation methodologies, including:
+Equity research professionals/ Equity analysts
+Financial Controllers
+M&A professionals
+Private Equity & Venture Capital specialists
+Portfolio managers-corporate restructuring
+Commercial and investment bankers
+Securities analysts
+Investment officers
+Corporate treasurers
+Business analysts
+Consultants/ Business advisors
+
+Read moreCollapse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Benefits for You & CO.
+
+
+
+
+
+
+
+
+
+
+After completion of the workshop you will be able to:
+understand the relationships between fundamental valuation and different valuation and investment strategies.
+value companies using several alternative fundamental valuation models
+apply valuation models in such a manner that is consistent with underlying theoretical conjectures.
+make consistent forecasts of financial statements.
+critically scrutinize and evaluate others’ forecasts of financial statements and others’ valuation of firms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Program
+
+
+
+
+
+
+
+
+
+
+Day 1 - Marek Panfil, Ph.D
+1. Business Valuation Standards a. Reasons of Valuation b. Standards of Value c. Types of Valuation Reports d. Business Valuation approaches and methods (Income-, Market-, Asset-based)   2. Income-Based Approach to Value Determination a. Discounted Cash Flow (DCF) Model – the most popular valuation method
+Key Value Drivers
+Project Free Cash Flow (FCFF, FCFE), Enterprise Value, Equity Value
+Weighted Average Cost of Capital (WACC) - Capital Structure, Cost of Debt, Cost of Equity
+Terminal Value (Exit Multiple Method, Perpetuity Growth Method)
+Sensitivity Analysis
+Limitations and shortcomings of the DCF method
+b. Capitalized Maintainable EBIT / Capitalized Maintainable Cash Flow – popular method for privately-held companies c. Challenges of using the income-based approach during a crisis 3. Comparable and Precedent Companies Analysis a. Selection of the peers
+Target Analysis
+Key Characteristics of the Target for Comparison
+Screening for Comparable Companies
+b. Key Statistics, Ratios, and Trading Multiples c. Benchmark the Comparable Companies d. Implied Valuation
+Valuation Implied by EV/EBITDA, EV/EBIT, EV/S
+Valuation Implied by P/E, P/BV
+e. Key Pros and Cons f. Discounts and Premiums g. Challenges of using the market-based approach during a crisis
+Case Studies in Excel: Valuation of a privately-held companies (Publishing House – sole proprietorship, Travel Agency Ltd., ABC Engineering Ltd.
+Day 2 – Paweł Mielcarz, Ph.D
+1. DCF valuation and financial modelling in Excel
+a. Application of ROIC tree in preparation of input model
+b. Forecast of financial statements, identification of liquidity gap c. Application of FCFF, EVA and FCFE technics in pre – money and post money valuation d. IPO and increase of capital in valuation process e. IRR for new investors – cash to cash technics f. Application of FCFE method for LBO Valuation g. Practical and theoretical approaches to growth rate estimations h. WACC calculations for public and private companies – the concept of total beta i. Recognition and valuation of non – operating assets j. Control premiums and minority discounts in in DCF valuation
+2. Selected topic in multiples valuation
+a. Calculation of recurring EBITDA b. Adjustment of EV/EBIT and P/E ratios to fundamentals of valuated companies (RONIC and PEG concepts) c. Regression models in valuation
+Read moreCollapse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dates
+
+
+
+
+
+
+
+
+
+
+Coming soon, from 9:00 a.m. to 4 p.m.
+Duration: two days = 16 teaching hours (1 teaching hour = 45minutes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructors
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+LinkedInEmail
+
+
+
+                                                                            Prof. Paweł Mielcarz
+                                                                    
+Head of the Department of Finance, the Substantive Coordinator of MBA studies for Financiers and postgraduate financial studies. He was also the deputy director of the College of Management and Finance, where he was responsible for the development of financial studies conducted in English.
+As a consultant, he took part in several hundred consulting projects and training sessions in the field of broadly understood corporate finances. As a court expert, he also prepared expert opinions in court, prosecutor's and arbitration proceedings and those conducted by the Polish Financial Supervision Authority. In his professional career, Professor Mielcarz was a member of several supervisory boards of companies.
+ He is the author or co-author of several dozen scientific articles and two books. Professor Mielcarz has taught at several European business universities and permanently cooperates with ESSCA - School of Management. He completed, among others, Global Colloquium on Participant - Centered Learning and Case Study Workshop programs organized by Harvard Business School.
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+Email
+
+
+
+                                                                            Ph.D Marek Panfil
+                                                                    
+An experienced instructor in the Department of Finance at Kozminski University, the Head of the Continuing Studies Business Valuation and Financial Modelling. He has over twenty years of business experience, including two years at KGHM International Ltd. (mining) in Vancouver on a position of Internal Audit Manager, two years as a Manager at Ernst & Young (EY) Vancouver (Transaction Advisory Service, Valuation and Business Modeling), six years as a Non-Executive Director / Chief of Audit Committee at KGHM Polska Miedź SA (top 10 world producer of copper and silver) in Warsaw / Lubin and as a value-based management advisor to many entrepreneurs.
+His research interests include business and intangible assets valuation, entrepreneurial finance (including business angels, venture capital, mezzanine, management and leverage buyout), value-based management, and capital budgeting. He published many works about business and intangible assets valuation and private equity/venture capital (seven books and 20 articles) published in Polish, English, and Chinese.
+Marek has taught Entrepreneurial Finance EMBA course at SFU Beedie School of Business in Vancouver, Canada (2017), and Corporate Finance course at VanWest College in Vancouver (2018).  
+He has participated in several trainings and development programs for academics, including Case Study Workshop at IESE Business School (2010). In 2012 he was a visiting scholar at NYU Stern School of Business.
+Marek successfully completed Chartered Business Valuation (CBV) Level I (Introduction to Valuation), Level II (Intermediate Business Valuation), Level III (Advanced Business Valuation), Level IV (Special Topics in Valuation), Valuation for Financial reporting, and Corporate Finance.  He gained proficiency in the Canadian context of business valuation and litigation support.
+He co-authored Poland’s first comprehensive statement of the principles for business valuation for the Polish Federation of Associations Property Appraisers (April 2011)
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+LinkedInEmail
+
+
+
+                                                                            Prof. Paweł Mielcarz
+                                                                    
+Head of the Department of Finance, the Substantive Coordinator of MBA studies for Financiers and postgraduate financial studies. He was also the deputy director of the College of Management and Finance, where he was responsible for the development of financial studies conducted in English.
+As a consultant, he took part in several hundred consulting projects and training sessions in the field of broadly understood corporate finances. As a court expert, he also prepared expert opinions in court, prosecutor's and arbitration proceedings and those conducted by the Polish Financial Supervision Authority. In his professional career, Professor Mielcarz was a member of several supervisory boards of companies.
+ He is the author or co-author of several dozen scientific articles and two books. Professor Mielcarz has taught at several European business universities and permanently cooperates with ESSCA - School of Management. He completed, among others, Global Colloquium on Participant - Centered Learning and Case Study Workshop programs organized by Harvard Business School.
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+Email
+
+
+
+                                                                            Ph.D Marek Panfil
+                                                                    
+An experienced instructor in the Department of Finance at Kozminski University, the Head of the Continuing Studies Business Valuation and Financial Modelling. He has over twenty years of business experience, including two years at KGHM International Ltd. (mining) in Vancouver on a position of Internal Audit Manager, two years as a Manager at Ernst & Young (EY) Vancouver (Transaction Advisory Service, Valuation and Business Modeling), six years as a Non-Executive Director / Chief of Audit Committee at KGHM Polska Miedź SA (top 10 world producer of copper and silver) in Warsaw / Lubin and as a value-based management advisor to many entrepreneurs.
+His research interests include business and intangible assets valuation, entrepreneurial finance (including business angels, venture capital, mezzanine, management and leverage buyout), value-based management, and capital budgeting. He published many works about business and intangible assets valuation and private equity/venture capital (seven books and 20 articles) published in Polish, English, and Chinese.
+Marek has taught Entrepreneurial Finance EMBA course at SFU Beedie School of Business in Vancouver, Canada (2017), and Corporate Finance course at VanWest College in Vancouver (2018).  
+He has participated in several trainings and development programs for academics, including Case Study Workshop at IESE Business School (2010). In 2012 he was a visiting scholar at NYU Stern School of Business.
+Marek successfully completed Chartered Business Valuation (CBV) Level I (Introduction to Valuation), Level II (Intermediate Business Valuation), Level III (Advanced Business Valuation), Level IV (Special Topics in Valuation), Valuation for Financial reporting, and Corporate Finance.  He gained proficiency in the Canadian context of business valuation and litigation support.
+He co-authored Poland’s first comprehensive statement of the principles for business valuation for the Polish Federation of Associations Property Appraisers (April 2011)
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+LinkedInEmail
+
+
+
+                                                                            Prof. Paweł Mielcarz
+                                                                    
+Head of the Department of Finance, the Substantive Coordinator of MBA studies for Financiers and postgraduate financial studies. He was also the deputy director of the College of Management and Finance, where he was responsible for the development of financial studies conducted in English.
+As a consultant, he took part in several hundred consulting projects and training sessions in the field of broadly understood corporate finances. As a court expert, he also prepared expert opinions in court, prosecutor's and arbitration proceedings and those conducted by the Polish Financial Supervision Authority. In his professional career, Professor Mielcarz was a member of several supervisory boards of companies.
+ He is the author or co-author of several dozen scientific articles and two books. Professor Mielcarz has taught at several European business universities and permanently cooperates with ESSCA - School of Management. He completed, among others, Global Colloquium on Participant - Centered Learning and Case Study Workshop programs organized by Harvard Business School.
+Read moreCollapse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Admission rules
+
+
+
+
+
+
+
+
+
+
+Online admission: here
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fees
+
+
+
+
+
+
+
+
+
+
+Price: 1600 PLN (gross - rate exempt from VAT)
+Price with discount from Kozminski graduates: 1440 PLN (gross - rate exempt from VAT)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            ABOUT KOZMINSKI
+          
+
+
+
+Reference
+
+
+
+
+
+            See
+          
+
+
+
+
+
+
+
+
+
+      Up
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We use cookies on this site to enhance your user experienceBy clicking the Accept button, you agree to us doing so.
+
+
+Accept
+No, thanks
+
+
+

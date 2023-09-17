@@ -1,0 +1,1361 @@
+Data Science for Business - International Intensive Training Program - Courses and Training - Kozminski University - Warsaw, Poland
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data Science for Business - International Intensive Training Program - Courses and Training - Kozminski University - Warsaw, Poland
+
+
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data Science for Business - International Intensive Training Program
+
+
+Level
+
+
+                                      Courses and Training
+                                  
+
+
+
+Duration
+
+                              2 months
+                          
+
+
+Language
+
+                              EN
+                          
+
+
+Obtained title
+
+                              Training completion certificate
+                          
+
+
+Mode
+
+
+                                      Online                                  
+
+
+
+Date
+
+                                                                                      
+                                                        01.09 -
+                                                                                          
+                                                        08.11.2022
+                                                            
+
+
+
+
+              Contact
+            
+
+
+
+                    Program
+                  
+
+
+
+
+                    Project
+                  
+
+
+
+
+
+
+                  Close
+                
+
+
+
+
+
+
+
+
+
+
+
+
+                                      Aleksandra Ryniewicz
+                                  
+
+
+                      spinaker@kozminski.edu.pl
+                    
+
+
+
+
+
+
+
+
+
+SPINAKER - International Intensive Training Programs
+
+
+
+
+
+
+
+
+
+
+
+The Heart of AI: Artificial Intelligence Workshop Hub and Data Science in the Centre of Europe
+
+
+
+
+
+
+
+
+
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Program listing
+
+
+Courses and Training
+
+
+ Data Science for Business - International... 
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+
+
+
+Program
+
+
+
+
+
+Instructors
+
+
+
+
+
+Terms and admission
+
+
+
+
+
+Fees
+
+
+
+
+
+
+
+
+
+
+
+About
+
+
+
+
+
+
+
+
+
+About the program
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+INTERNATIONAL INTENSIVE TRAINING PROGRAMS
+The Heart of AI: Artificial Intelligence Workshop Hub and Data Science in the Centre of Europe – International Intensive Training Programs are carried out thanks to European Union’s funding under the Spinaker Program aimed at internationalization of higher education.
+The Spinaker Program is implemented within the framework of the Polish National Agency for Academic Exchange's (NAWA's) and co-financed by the European Social Fund under the Operational Program Knowledge Education Development
+
+
+
+
+
+
+
+
+
+
+The program includes three separate modules
+
+
+
+
+
+
+
+
+
+
+1
+
+
+               
+                DATA SCIENCE FOR BUSINESS (DATE: FROM SEPTEMBER 1 TO NOVEMBER 8, 2022)
+               
+            
+
+Nowadays, data science offers many possibilities for business. This online training offers a deep-dive into data science in and for business. If you wish to learn how data-driven analytical thinking transforms business organization and influences the overall business performance, the knowledge presented contained in the course that we have prepared together with our partners is a true compendium of how to build data-driven processes and data-driven organizations.
+
+
+
+
+2
+
+
+               
+                AI IN BUSINESS AND NATURAL LANGUAGE PROCESSING FOR BUSINESS (EXPECTED DATE: JUNE - AUGUST 2023) 
+               
+            
+
+AI is a key optimization and prediction technology for organizations. This online training focuses on three important themes: how Natural Language Processing (NLP) increases business potential, the basics of machine learning and the conditions of strategy implementation at particular times. During the course we will present the basics of machine learning and the conditions for implementing ML and AI in organizations. The training is based on Michael Porter's five-forces framework.
+
+
+
+
+3
+
+
+               
+                PYTHON I AND II (OCTOBER 15 TO DECEMBER 17, 2021) - PROGRAM FINALIZED
+               
+            
+
+This online training provides the essential features of Python programming language The ultimate benefit of the training is a sharper understanding of Python programming environments. Students will learn how to discern data types and gain insight on how to conduct logical operations that can improve business performance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Program
+
+
+
+
+
+
+
+
+
+DATA SCIENCE FOR BUSINESS – INTERNATIONAL INTENSIVE TRAINING PROGRAM
+
+
+
+
+
+
+
+
+
+
+Duration of Program: from September 1 to November 8,2022
+Language of instruction: English 
+Format: Online training
+Length: 54-hours 
+Participation limit: 40 students
+Application deadline: June 15th
+
+
+
+
+
+
+
+
+
+
+
+PROGRAM:
+Advancements in Artificial Intelligence restore business to its human dimensions. Rather than just working, managers may choose more direct bearings on what’s meaningful and useful to their business activities. This online training offers projections for applying Big Data and Data Science in business. If you wish to learn how data-driven analytical thinking transforms business organization and influences overall business performance, the amount of information offered in the course is a true compendium of these developments.
+TOPICS COVERED:
+Understanding Big Data
+Big Data scraping and acquisition 
+Introduction to SQL and cloud database solutions
+Individual Data Science project under instructor’s supervision
+Business culture in Poland
+Desired candidates should express interest in the subject and, ideally, demonstrate strong analytical thinking skills. Only candidates with valid student status are eligible to participate in the course. Read more on Terms and Conditions.
+SYLLABI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructors
+
+
+
+
+
+
+
+
+
+Leading Instructors
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+                                                                            Konrad Sowa
+                                                                    
+Konrad is pursuing his PhD degree on Kozminski University with a research related to human-AI collaboration, under guidance of prof. Aleksandra Przegalinska. Their studies are precursory in the newly emerging area. Having led numerous courses, he is also an expert in startup management, innovation, AI. Apart from a scientific career, he also works in venture capital industry for one of the leading funds. 
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+Email
+
+
+
+                                                                            Prof. Aneta Hryckiewicz-Gontarczyk
+                                                                    
+An economist and expert in corporal finance and bank services, a lecturer at Goethe University in Frankfurt, a visiting lecturer at IESEG Business School in Paris, Lille and University of Florence. She’s an author to numerous scientific articles and monographs issued in prestigious journals listed in Journal Citation Reports. 
+Recent publications:
+F. Allen, A. Hryckiewicz, O. Kowalewski, G. Tümer-Alkan, Transmission of financial shocks in loan and deposit markets: Role of interbank borrowing and market monitoring, Journal of Financial Stability
+A. Hryckiewicz, What do we know about the impact of government interventions in the banking sector? An assessment of various bailout programs on bank behavior, Journal of Banking and Finance
+A. Hryckiewicz, O. Kowalewski, Economic determinates, financial crisis and entry modes of foreign banks into emerging markets, Emerging Markets Review
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+LinkedInEmail
+
+
+
+                                                                            Prof. Aleksandra Przegalińska
+                                                                    
+Doctor of Social Sciences, KU Professor in the Department of Network Society Management, philosopher, researcher in the development of new technologies, especially artificial intelligence, social robots and dressing technologies.
+A graduate of The New School for Social Research in New York, where she participated in research on virtual reality identity, with a special focus on Second Life. She also worked for the Polish Presidency of the EU Council as Chairwoman of the Audiovisual Working Group on behalf of the Ministry of Culture and National Heritage. Visiting Scholar at MIT (2016-2017, 2019). 
+Since 2015 member of the Program Council of Startup Hub Poland. Scholarship holder of the "Mobility Plus" program. (2016 - 2017), Kosciuszko Foundation (2014), Foundation for Polish Science (2010) and Wiliam J. Fulbright (2007), winner of the award for outstanding young scientists of the Minister of Science and Higher Education.
+Co-author of the program of specialization - Management and Artificial Intelligence in Digital Society, in the course of the first degree studies in English in the stationary form in KU. In the fall of 2020, she begins research at the American Institute for Economic Research on Work Automation and then joins the Harvard University Labour and Worklife program.
+Author of the monograph "Virtual Beings. How phenomenology changed artificial intelligence". (UNIVERSITAS, 2016) and many scientific publications in journals and monographs, co-author of the book "Collaborative Society". (The MIT Press) www.collaborativesociety.net, published together with Prof. Dariusz Jemielniak.Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+Email
+
+
+
+                                                                            Prof. Dariusz Jemielniak
+                                                                    
+
+Full Professor and head of Management in Networked and Digital Environments (MINDS) department, Kozminski University, and faculty associate at Berkman-Klein Center for Internet and Society, Harvard University. He is a corresponding member of the Polish Academy of Sciences. His recent books include “Collaborative Society” (2020, MIT Press, with A. Przegalinska), “Thick Big Data” (2020, Oxford University Press), “Common Knowledge?: An Ethnography of Wikipedia” (2014, Stanford University Press). His current research projects include climate change denialism online, anti-vaxxer internet communities, and bot detection.  He serves on the Wikimedia Foundation Board of Trustees. 
+Recent publications:
+Jemielniak, Dariusz (2012) The New Knowledge Workers, Cheltenham: Edward Elgar Publishing
+Jemielniak, Dariusz and Kostera, Monika (2010) Narratives of irony and failure in ethnographic work, Canadian Journal of Administrative Sciences, vol. 27(4)
+Hunter, Carolyn, Jemielniak, Dariusz and Postuła, Agnieszka (2010) Temporal and spatial shifts within playful work, Journal of Organizational Change Management, vol. 23, no. 1, pp. 87-102
+Jemielniak, Dariusz (2009) Time as symbolic currency in knowledge work, Information and Organization, vol. 19, pp. 277-293
+
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+Email
+
+
+
+                                                                            Anna Kovbasiuk
+                                                                    
+Anna is pursuing her scientific career as a PhD student in Kozminski university under the supervision of prof. Dariusz Jemielniak and student of Cognitive Neuroscience in SWPS University in Warsaw. Currently she is conducting “Big Data and Algorithms”, “Data visualization”, “Statistics for Machine Learning”, “Introduction to Python”, “Introduction to Online Analysis and Data Mining”, and “Customer/User Experience” workshops and seminars in Kozminski University. She is also developing her expertise in the domain of human-computer interaction and neuroscience by conducting research with the help of various behavioral and psychophysiological measures such as MRI, EEG, EMG, EDA, and eye-tracking. 
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+Email
+
+
+
+                                                                            PhD Piotr Zegadło
+                                                                    
+Piotr Zegadło is an assistant professor at Kozminski University and one of the leaders of its Master in Big Data Science program. Freelance machine learning engineer with previous 10+ years of experience in econometrics and data analytics within the financial sector. Having worked in the fields of investment banking and private equity in the United Kingdom, he later joined the Polish Bank Guarantee Fund as a treasury portfolio manager. He worked as an economist at the National Bank of Poland and built predictive models used in budgeting for the PZU Group. He was awarded a PhD in financial econometrics at Birkbeck, University of London. His research concentrates on financial markets modelling using a variety of methods – from econometrics through machine learning to agent-based modelling.
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            PhD Aldona Tomczyńska
+                                                                    
+Aldona Tomczyńska is a doctor of philosophy in international political economy. She was awarded her doctorate degree with distinction at the University of Warsaw in 2017. She has worked as an assistant professor and data science team leader at the National Information Processing Institute for more than ten years. She conducts research in economy, innovation, sociology, and data science. She has coordinated multiple scientific projects, as well as participating in evaluation studies and research and support actions within the Horizon 2020 program.
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            PhD Marek Kozłowski
+                                                                    
+Marek Kozłowski is the Head of the Laboratory of Natural Language Processing at the National Information Processing Institute in Warsaw, where he leads a team of over 30 researchers and programmers who develop software that is enriched with intelligent (primarily text and image) data processing methods. He is passionate about natural language processing, data mining, and machine learning. He has written over 40 scientific publications on semantic text processing and machine learning. Marek has participated in commercial machine learning research projects for the private sector, including at Samsung, France Telecom, Orange Labs, Millward Brown, Vive Textile Recycling, and Connectis. He has also competed in a host of international machine learning events, including the IEEE BigData 2019 Cup.
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            MSc Maciej Kowalski
+                                                                    
+Maciej Kowalski is the Deputy Head of the Laboratory of Natural Language Processing at the National Information Processing Institute. He and his team are responsible for creating intelligent knowledge- discovery tools from large corpora of text and web data. They also develop digital e-services, such as including the MEiN Scientific Achievement Evaluation System (SEDN), for the public and commercial sectors. He is a co-founder of the Uniform Antiplagiarism System (JSA), which is used by all who submit diploma theses in Poland. Maciej has many years’ experience in implementing projects in artificial intelligence, machine learning, and natural language processing. He graduated from Lodz University of Technology in computer science, specialising in computer networks and information systems. He has completed several postgraduate programmes, including in project management (TUL), processing and analysis of biomedical images (TUL), UX design (SWPS), data science (PW), and deep neural networks (PW). He has also completed several specialised courses on project management, machine learning, the use of data science in Python programming, neural networks, deep learning, and artificial intelligence. He is currently an MBA IT student at Kozminski University in Warsaw.
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            MSc Emil Podwysocki
+                                                                    
+Obtained a master’s degree in telecommunications systems at the Technical University of Lodz. He has ten years’ professional experience related to ETL/ELT, data warehouses, and business intelligence. His areas of interest include Oracle technology, big data, business intelligence, and data visualisation. Currently, he serves as the head of the Laboratory of Databases and Business Analytical Systems at the National Information Processing Institute.
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+                                                                            Konrad Sowa
+                                                                    
+Konrad is pursuing his PhD degree on Kozminski University with a research related to human-AI collaboration, under guidance of prof. Aleksandra Przegalinska. Their studies are precursory in the newly emerging area. Having led numerous courses, he is also an expert in startup management, innovation, AI. Apart from a scientific career, he also works in venture capital industry for one of the leading funds. 
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+Email
+
+
+
+                                                                            Prof. Aneta Hryckiewicz-Gontarczyk
+                                                                    
+An economist and expert in corporal finance and bank services, a lecturer at Goethe University in Frankfurt, a visiting lecturer at IESEG Business School in Paris, Lille and University of Florence. She’s an author to numerous scientific articles and monographs issued in prestigious journals listed in Journal Citation Reports. 
+Recent publications:
+F. Allen, A. Hryckiewicz, O. Kowalewski, G. Tümer-Alkan, Transmission of financial shocks in loan and deposit markets: Role of interbank borrowing and market monitoring, Journal of Financial Stability
+A. Hryckiewicz, What do we know about the impact of government interventions in the banking sector? An assessment of various bailout programs on bank behavior, Journal of Banking and Finance
+A. Hryckiewicz, O. Kowalewski, Economic determinates, financial crisis and entry modes of foreign banks into emerging markets, Emerging Markets Review
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+LinkedInEmail
+
+
+
+                                                                            Prof. Aleksandra Przegalińska
+                                                                    
+Doctor of Social Sciences, KU Professor in the Department of Network Society Management, philosopher, researcher in the development of new technologies, especially artificial intelligence, social robots and dressing technologies.
+A graduate of The New School for Social Research in New York, where she participated in research on virtual reality identity, with a special focus on Second Life. She also worked for the Polish Presidency of the EU Council as Chairwoman of the Audiovisual Working Group on behalf of the Ministry of Culture and National Heritage. Visiting Scholar at MIT (2016-2017, 2019). 
+Since 2015 member of the Program Council of Startup Hub Poland. Scholarship holder of the "Mobility Plus" program. (2016 - 2017), Kosciuszko Foundation (2014), Foundation for Polish Science (2010) and Wiliam J. Fulbright (2007), winner of the award for outstanding young scientists of the Minister of Science and Higher Education.
+Co-author of the program of specialization - Management and Artificial Intelligence in Digital Society, in the course of the first degree studies in English in the stationary form in KU. In the fall of 2020, she begins research at the American Institute for Economic Research on Work Automation and then joins the Harvard University Labour and Worklife program.
+Author of the monograph "Virtual Beings. How phenomenology changed artificial intelligence". (UNIVERSITAS, 2016) and many scientific publications in journals and monographs, co-author of the book "Collaborative Society". (The MIT Press) www.collaborativesociety.net, published together with Prof. Dariusz Jemielniak.Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+Email
+
+
+
+                                                                            Prof. Dariusz Jemielniak
+                                                                    
+
+Full Professor and head of Management in Networked and Digital Environments (MINDS) department, Kozminski University, and faculty associate at Berkman-Klein Center for Internet and Society, Harvard University. He is a corresponding member of the Polish Academy of Sciences. His recent books include “Collaborative Society” (2020, MIT Press, with A. Przegalinska), “Thick Big Data” (2020, Oxford University Press), “Common Knowledge?: An Ethnography of Wikipedia” (2014, Stanford University Press). His current research projects include climate change denialism online, anti-vaxxer internet communities, and bot detection.  He serves on the Wikimedia Foundation Board of Trustees. 
+Recent publications:
+Jemielniak, Dariusz (2012) The New Knowledge Workers, Cheltenham: Edward Elgar Publishing
+Jemielniak, Dariusz and Kostera, Monika (2010) Narratives of irony and failure in ethnographic work, Canadian Journal of Administrative Sciences, vol. 27(4)
+Hunter, Carolyn, Jemielniak, Dariusz and Postuła, Agnieszka (2010) Temporal and spatial shifts within playful work, Journal of Organizational Change Management, vol. 23, no. 1, pp. 87-102
+Jemielniak, Dariusz (2009) Time as symbolic currency in knowledge work, Information and Organization, vol. 19, pp. 277-293
+
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+Email
+
+
+
+                                                                            Anna Kovbasiuk
+                                                                    
+Anna is pursuing her scientific career as a PhD student in Kozminski university under the supervision of prof. Dariusz Jemielniak and student of Cognitive Neuroscience in SWPS University in Warsaw. Currently she is conducting “Big Data and Algorithms”, “Data visualization”, “Statistics for Machine Learning”, “Introduction to Python”, “Introduction to Online Analysis and Data Mining”, and “Customer/User Experience” workshops and seminars in Kozminski University. She is also developing her expertise in the domain of human-computer interaction and neuroscience by conducting research with the help of various behavioral and psychophysiological measures such as MRI, EEG, EMG, EDA, and eye-tracking. 
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+Email
+
+
+
+                                                                            PhD Piotr Zegadło
+                                                                    
+Piotr Zegadło is an assistant professor at Kozminski University and one of the leaders of its Master in Big Data Science program. Freelance machine learning engineer with previous 10+ years of experience in econometrics and data analytics within the financial sector. Having worked in the fields of investment banking and private equity in the United Kingdom, he later joined the Polish Bank Guarantee Fund as a treasury portfolio manager. He worked as an economist at the National Bank of Poland and built predictive models used in budgeting for the PZU Group. He was awarded a PhD in financial econometrics at Birkbeck, University of London. His research concentrates on financial markets modelling using a variety of methods – from econometrics through machine learning to agent-based modelling.
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            PhD Aldona Tomczyńska
+                                                                    
+Aldona Tomczyńska is a doctor of philosophy in international political economy. She was awarded her doctorate degree with distinction at the University of Warsaw in 2017. She has worked as an assistant professor and data science team leader at the National Information Processing Institute for more than ten years. She conducts research in economy, innovation, sociology, and data science. She has coordinated multiple scientific projects, as well as participating in evaluation studies and research and support actions within the Horizon 2020 program.
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            PhD Marek Kozłowski
+                                                                    
+Marek Kozłowski is the Head of the Laboratory of Natural Language Processing at the National Information Processing Institute in Warsaw, where he leads a team of over 30 researchers and programmers who develop software that is enriched with intelligent (primarily text and image) data processing methods. He is passionate about natural language processing, data mining, and machine learning. He has written over 40 scientific publications on semantic text processing and machine learning. Marek has participated in commercial machine learning research projects for the private sector, including at Samsung, France Telecom, Orange Labs, Millward Brown, Vive Textile Recycling, and Connectis. He has also competed in a host of international machine learning events, including the IEEE BigData 2019 Cup.
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            MSc Maciej Kowalski
+                                                                    
+Maciej Kowalski is the Deputy Head of the Laboratory of Natural Language Processing at the National Information Processing Institute. He and his team are responsible for creating intelligent knowledge- discovery tools from large corpora of text and web data. They also develop digital e-services, such as including the MEiN Scientific Achievement Evaluation System (SEDN), for the public and commercial sectors. He is a co-founder of the Uniform Antiplagiarism System (JSA), which is used by all who submit diploma theses in Poland. Maciej has many years’ experience in implementing projects in artificial intelligence, machine learning, and natural language processing. He graduated from Lodz University of Technology in computer science, specialising in computer networks and information systems. He has completed several postgraduate programmes, including in project management (TUL), processing and analysis of biomedical images (TUL), UX design (SWPS), data science (PW), and deep neural networks (PW). He has also completed several specialised courses on project management, machine learning, the use of data science in Python programming, neural networks, deep learning, and artificial intelligence. He is currently an MBA IT student at Kozminski University in Warsaw.
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            MSc Emil Podwysocki
+                                                                    
+Obtained a master’s degree in telecommunications systems at the Technical University of Lodz. He has ten years’ professional experience related to ETL/ELT, data warehouses, and business intelligence. His areas of interest include Oracle technology, big data, business intelligence, and data visualisation. Currently, he serves as the head of the Laboratory of Databases and Business Analytical Systems at the National Information Processing Institute.
+Read moreCollapse
+
+
+
+
+
+
+
+Previous
+Next
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+                                                                            Konrad Sowa
+                                                                    
+Konrad is pursuing his PhD degree on Kozminski University with a research related to human-AI collaboration, under guidance of prof. Aleksandra Przegalinska. Their studies are precursory in the newly emerging area. Having led numerous courses, he is also an expert in startup management, innovation, AI. Apart from a scientific career, he also works in venture capital industry for one of the leading funds. 
+Read moreCollapse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms and admission
+
+
+
+
+
+
+
+
+
+
+The program is open to 3rd-year (and 4th-year where that applies) undergraduate (Bachelor level) and graduate students (Master level) from both EU and non-EU countries.
+The selection process is based on an equal opportunities policy. Students with disabilities are entitled to extra organizational and educational assistance if needed. Candidates will be chosen on the basis of a competitive selection. The application form includes: 
+confirmation of semester/ academic year grade-point average
+CV
+motivational letter (400 Words)
+In cases of a dispute, meaning where candidates hold equal grade point averages, cover letters will be the deciding argument in the selection of course participants. All candidates will be informed on the selection results by e-mail.
+IMPORTANT NOTE: Candidates may participate in only one course under the Spinaker Program. Therefore, if you participated in the Python I and II Intensive course, your application cannot be processed.
+Duration of Program: from September 1 to November 8 2022
+Participation limit: 40 students
+
+
+
+
+
+
+
+
+
+
+
+
+                         
+                            How to apply?
+                         
+                    
+
+
+
+
+
+
+
+Interested candidates should fill out an application form in this link
+Application deadline: June 15th
+
+
+
+
+
+
+
+
+
+
+
+                         
+                            Templates of application documents
+                         
+                    
+
+
+
+
+
+
+
+1. Declaration of participation
+2. Participant personal data form
+3. Declaration GDPR OP KED
+4. Declaration GDPR NAWA
+5. Additional consent
+
+
+
+
+
+
+
+
+
+
+                         
+                            Rules of admission
+                         
+                    
+
+
+
+
+
+
+
+Download Rules of admission
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do you have any questions?
+Aleksandra Ryniewicz
+
+
+
+                                spinaker@kozminski.edu.pl
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fees
+
+
+
+
+
+
+
+
+
+
+Participation is free of charge. 
+The Program is run under the Polish National Program NAWA Spinaker Program is aimed at internationalization of higher education.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            ABOUT KOZMINSKI
+          
+
+
+
+Discover other benefits of studying at Kozminski University
+
+
+
+
+
+            Read more
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KOZMINSKI UNIVERSITY AI PROGRAMS
+
+
+
+
+
+
+
+
+
+
+                                    Master in Big Data Science
+                                
+
+
+
+
+                                                                                                    Graduate Programs (Master)
+                                                                                                
+
+
+
+
+
+                                                                                                            Full-time
+                                                                                                    
+
+                                                                                                            Online
+                                                                                                    
+
+
+
+                                                                                            2 years
+                                                                                    
+
+                                                                                            EN
+                                                                                    
+
+
+See
+                                        product Master in Big Data Science
+
+
+
+
+
+
+
+
+
+
+                                    Bachelor in Management and Artificial Intelligence
+                                
+
+
+
+
+                                                                                                    Undergraduate Programs (Bachelor)
+                                                                                                
+
+
+
+
+
+                                                                                                            Full-time
+                                                                                                    
+
+
+
+                                                                                            3 years
+                                                                                    
+
+                                                                                            EN
+                                                                                    
+
+
+See
+                                        product Bachelor in Management and Artificial Intelligence
+
+
+
+
+
+
+
+
+
+
+                                    Master in Management
+                                
+
+
+
+
+                                                                                                    Graduate Programs (Master)
+                                                                                                
+
+
+
+
+
+                                                                                                            Full-time
+                                                                                                    
+
+                                                                                                            Part-time
+                                                                                                    
+
+                                                                                                            Online
+                                                                                                    
+
+
+
+                                                                                            2 years
+                                                                                    
+
+                                                                                            EN
+                                                                                    
+
+
+See
+                                        product Master in Management
+
+
+
+
+
+
+
+
+
+
+      Up
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We use cookies on this site to enhance your user experienceBy clicking the Accept button, you agree to us doing so.
+
+
+Accept
+No, thanks
+
+
+
